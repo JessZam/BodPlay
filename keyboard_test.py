@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jan 19 23:25:46 2018
-@author: Rey
 """
 
 import os
